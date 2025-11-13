@@ -1,33 +1,20 @@
-   2 python testing.py
-   3 rm testing.py
-   4 git init
-   5 dir -a
-   6 dir -Hidden
-   7 dir-h
-   8 dir -h
-   9 git status
-  10 git status
-  11 git add .\testing.py
-  12 git status
-  13 git rm --cached testing.py
-  14 git staus
-  15 git status
-  16 git add .
-  17 git staux
-  18 git staus
-  19 git status
-  20 clear
-  21 git staus
-  22 clear
-  23 git status
-  24 git commit -m "added testing.py"
-  25 git config --global user.email "abhishekjadhav8973@gmail.com"
-  26 git config --global user.name "abhi-jadhav-75"
-  27 git commit -m "added testing.py"
-  28 rm .\testing.py
-  29 ls
-  30 git restore
-  31 git restore .
-  32 ls
-  33 clear
-  34 git status
+   python testing.py
+   rm testing.py
+   git init
+   dir -h
+   git status
+   git add .\testing.py
+   git status
+   git rm --cached testing.py
+   git status
+   git add .
+   git status
+   git status
+   git commit -m "added testing.py"
+   git config --global user.email "your@gmail.com"
+   git config --global user.name "user_name"
+   git commit -m "added testing.py"
+   rm .\testing.py
+   ls
+   git restore .
+   git status
